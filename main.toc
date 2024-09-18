@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Vue d'ensemble sur le chikungunya et l'apprentissage d'ensemble}{10}{0}{2}
+\beamer@sectionintoc {3}{l'état de l'art}{27}{0}{3}
+\beamer@sectionintoc {4}{Matériel et méthodes}{30}{0}{4}
+\beamer@sectionintoc {5}{Résultats et discussions}{49}{0}{5}
+\beamer@sectionintoc {6}{Conclusion et perspectives}{55}{0}{6}
